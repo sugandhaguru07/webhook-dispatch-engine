@@ -64,11 +64,10 @@ Containerization: Docker & Docker Compose
 
 HTTP Client: Spring RestClient
 
-Getting Started
-Prerequisites
+Prerequisites:
 Java 21 SDK
 Docker and Docker Compose
-Maven Wrapper (./mvnw included)
+Maven Wrapper
 Postman (for API execution and inspection)
 
 1. Start Infrastructure
